@@ -28,7 +28,8 @@ Video demonstration ofA ECG & HRV dashboard is included in this repository:
 assets/working video 
 Working Video
 Below is the demonstration of the ECG & HRV Analysis Dashboard:
-![Working Video](assets/working video.mp4)
+Video demonstration of the ECG & HRV dashboard is included in this repository:
+ [Watch Video](assets/working%20video.mp4)
 
 QR Code for GitHub Repository
 Scan the QR code below to access the project directly:
