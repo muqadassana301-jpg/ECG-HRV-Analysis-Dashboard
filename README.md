@@ -23,7 +23,7 @@ python hrv_dashboard.py
 
 Note
 Ensure correct ECG format and sampling rate for accurate results.
-🎥 Working Demo
+Working Demo
 
-👉 Video demonstration of ECG & HRV dashboard is included in this repository:
+Video demonstration of ECG & HRV dashboard is included in this repository:
 assets/working video 
